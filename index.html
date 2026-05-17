@@ -404,7 +404,7 @@
             </div>
             <div class="form-group">
               <label class="form-label">Follow-Up Count</label>
-              <input type="number" id="lead-followup-count" class="form-input" min="0" value="0">
+              <input type="number" id="lead-followup-count" class="form-input" min="0" value="0" onchange="autoCalculateDates()">
             </div>
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
@@ -846,11 +846,6 @@
       document.getElementById('lead-next-followup').value = lead.nextFollowUp || '';
       document.getElementById('lead-notes').value = lead.notes || '';
       document.getElementById('modal').classList.remove('hidden');
-      
-      // Add event listener to auto-calculate when follow-up count changes
-      const countInput = document.getElementById('lead-followup-count');
-      countInput.addEventListener('change', autoCalculateDates);
-      countInput.addEventListener('input', autoCalculateDates);
     }
     
     function getTodayPacific() {
