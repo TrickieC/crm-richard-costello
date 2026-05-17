@@ -336,12 +336,48 @@
               </select>
             </div>
           </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+            <div class="form-group">
+              <label class="form-label">Temperature</label>
+              <select id="lead-temp" class="form-select">
+                <option>Hot</option>
+                <option>Warm</option>
+                <option>Cold</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Follow-Up Count</label>
+              <input type="number" id="lead-followup-count" class="form-input" min="0" value="0">
+            </div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+            <div class="form-group">
+              <label class="form-label">Last Contact</label>
+              <input type="date" id="lead-last-contact" class="form-input">
+            </div>
+            <div class="form-group">
+              <label class="form-label">Next Follow-Up</label>
+              <input type="date" id="lead-next-followup" class="form-input">
+            </div>
+          </div>
           <div class="form-group">
-            <label class="form-label">Temperature</label>
-            <select id="lead-temp" class="form-select">
-              <option>Hot</option>
-              <option>Warm</option>
-              <option>Cold</option>
+            <label class="form-label">Last Action</label>
+            <select id="lead-last-action" class="form-select">
+              <option>Initial Contact</option>
+              <option>Follow-up 1</option>
+              <option>Follow-up 2</option>
+              <option>Follow-up 3</option>
+              <option>Follow-up 4</option>
+              <option>Follow-up 5</option>
+              <option>Follow-up 6+</option>
+              <option>Proposal</option>
+              <option>Contract</option>
+              <option>Closed</option>
+              <option>Nurture</option>
+              <option>No Answer</option>
+              <option>Not Interested</option>
+              <option>Watched Presentation</option>
+              <option>Scheduled Call</option>
             </select>
           </div>
           <div class="form-group">
@@ -696,6 +732,10 @@
       document.getElementById('lead-source').value = lead.source;
       document.getElementById('lead-status').value = lead.status;
       document.getElementById('lead-temp').value = lead.temperature;
+      document.getElementById('lead-followup-count').value = lead.followUpCount || 0;
+      document.getElementById('lead-last-action').value = lead.lastAction || 'Initial Contact';
+      document.getElementById('lead-last-contact').value = lead.lastContact || '';
+      document.getElementById('lead-next-followup').value = lead.nextFollowUp || '';
       document.getElementById('lead-notes').value = lead.notes || '';
       document.getElementById('modal').classList.remove('hidden');
     }
@@ -718,6 +758,10 @@
         source: document.getElementById('lead-source').value,
         status: document.getElementById('lead-status').value,
         temperature: document.getElementById('lead-temp').value,
+        followUpCount: parseInt(document.getElementById('lead-followup-count').value) || 0,
+        lastAction: document.getElementById('lead-last-action').value,
+        lastContact: document.getElementById('lead-last-contact').value || null,
+        nextFollowUp: document.getElementById('lead-next-followup').value || null,
         notes: document.getElementById('lead-notes').value,
         lastModified: now
       };
