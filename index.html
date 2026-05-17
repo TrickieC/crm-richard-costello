@@ -999,12 +999,14 @@
       }
     }
 
-    // Team Dashboard Sync Config
+    // Team Dashboard Sync Config - Set these values in localStorage to enable
+    // localStorage.setItem('team_sync_enabled', 'true')
+    // localStorage.setItem('team_builder_name', 'Your Name')
     const TEAM_DASHBOARD_CONFIG = {
-      enabled: false, // Set to true and fill in details to enable sync
-      builderName: '', // Your name as it should appear on the dashboard
-      dashboardRepo: 'michael9549/team-dashboard-data', // The central dashboard repo
-      dashboardToken: '' // GitHub token with access to dashboard repo (can be same as CRM token)
+      enabled: localStorage.getItem('team_sync_enabled') === 'true',
+      builderName: localStorage.getItem('team_builder_name') || '',
+      dashboardRepo: 'michael9549/team-dashboard-data',
+      dashboardToken: localStorage.getItem('github_token') || ''
     };
 
     async function syncToTeamDashboard() {
