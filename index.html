@@ -701,7 +701,7 @@
       document.getElementById('leads-table').classList.remove('hidden');
 
       document.getElementById('leads-tbody').innerHTML = filtered.map(lead => `
-        <tr onclick="openEditModal('${lead.id}')" style="cursor: pointer;">
+        <tr>
           <td>
             <div style="font-weight: 600;">${lead.name}</div>
             <div style="font-size: 12px; color: var(--gray-500);">${lead.source}</div>
@@ -725,7 +725,8 @@
             }
           </td>
           <td>
-            <button class="action-button" onclick="event.stopPropagation(); logContact('${lead.id}')">✓ Log Contact</button>
+            <button class="action-button" onclick="openEditModal('${lead.id}')" style="margin-right: 8px;">Edit</button>
+            <button class="action-button" onclick="confirmDelete('${lead.id}')" style="background: var(--danger);">Delete</button>
           </td>
         </tr>
       `).join('');
@@ -853,18 +854,17 @@
       }
     }
 
-    async function logContact(id) {
+    async function confirmDelete(id) {
       const lead = leads.find(l => l.id === id);
       if (!lead) return;
-
-      const now = getTodayPacific();
-      lead.lastContact = now;
-      lead.lastModified = now;
-
-      if (await saveLeadsToGitHub()) {
-        renderView();
-      } else {
-        alert('Failed to log contact');
+      
+      if (confirm(`Are you sure you want to delete ${lead.name}?`)) {
+        leads = leads.filter(l => l.id !== id);
+        if (await saveLeadsToGitHub()) {
+          renderView();
+        } else {
+          alert('Failed to delete lead');
+        }
       }
     }
   </script>
