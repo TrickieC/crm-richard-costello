@@ -263,12 +263,12 @@
       <div id="leads-view">
         <div class="card-header">
           <h2 class="card-title" id="view-title">Master Pipeline</h2>
-          <button class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
+          <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
         </div>
 
         <div id="empty-state" class="card empty-state hidden">
           <p>No leads found in this view.</p>
-          <button class="button button-primary" onclick="openAddModal()" style="margin-top: 16px;">Add Your First Lead</button>
+          <button id="empty-add-btn" class="button button-primary" onclick="openAddModal()" style="margin-top: 16px;">Add Your First Lead</button>
         </div>
 
         <div id="leads-table" class="card" style="overflow-x: auto;">
@@ -679,6 +679,17 @@
         nurture: 'Nurture'
       };
       document.getElementById('view-title').textContent = titles[currentView];
+
+      // Show/hide Add Lead button based on view
+      const addBtn = document.getElementById('add-lead-btn');
+      const emptyAddBtn = document.getElementById('empty-add-btn');
+      if (currentView === 'pipeline') {
+        if (addBtn) addBtn.classList.remove('hidden');
+        if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
+      } else {
+        if (addBtn) addBtn.classList.add('hidden');
+        if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
+      }
 
       if (filtered.length === 0) {
         document.getElementById('empty-state').classList.remove('hidden');
