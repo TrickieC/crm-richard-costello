@@ -175,7 +175,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbrci1cfermvtrimcp",
+      "name": "Leonard Floyd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leonard.floyd.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T22:01:54.841Z"
+  "lastUpdated": "2026-05-18T22:10:29.328Z"
 }
