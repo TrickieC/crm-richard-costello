@@ -938,6 +938,8 @@
       document.getElementById('modal-title').textContent = 'Add New Lead';
       document.getElementById('lead-form').reset();
       document.getElementById('lead-created').value = getTodayPacific();
+      // Auto-set Last Contact to today (assumption: you're adding them because you just contacted them)
+      document.getElementById('lead-last-contact').value = getTodayPacific();
       document.getElementById('modal').classList.remove('hidden');
     }
 
@@ -1098,11 +1100,9 @@
         const idx = leads.findIndex(l => l.id === editingId);
         leads[idx] = { ...leads[idx], ...leadData };
       } else {
+        // For new leads, use the dates from the form (user already set them)
         leads.push({
           ...leadData,
-          lastContact: null,
-          nextFollowUp: null,
-          lastAction: 'Initial Contact',
           dateAdded: now
         });
       }
