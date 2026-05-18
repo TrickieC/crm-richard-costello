@@ -191,7 +191,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbrdsasi5nvkuxti",
+      "name": "Rick Dorey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092751395009",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T22:10:29.328Z"
+  "lastUpdated": "2026-05-18T22:11:29.285Z"
 }
