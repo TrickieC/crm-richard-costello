@@ -7,13 +7,13 @@
       "phone": "",
       "social": "https://www.facebook.com/cory.lamm.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-19",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
       "notes": "",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-19",
       "dateAdded": "2026-05-18"
     },
     {
@@ -321,5 +321,5 @@
       "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T22:19:42.804Z"
+  "lastUpdated": "2026-05-19T15:37:10.067Z"
 }
