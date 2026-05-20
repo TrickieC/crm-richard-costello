@@ -471,13 +471,13 @@
       "phone": "",
       "social": "https://www.facebook.com/JasonsTheMoneyMaker",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-19",
       "nextFollowUp": "2026-05-21",
       "notes": "",
-      "lastModified": "2026-05-19",
+      "lastModified": "2026-05-20",
       "dateAdded": "2026-05-19"
     },
     {
@@ -721,5 +721,5 @@
       "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T13:46:18.184Z"
+  "lastUpdated": "2026-05-20T17:37:36.725Z"
 }
