@@ -767,7 +767,24 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpelyh2dp2jr57he5n",
+      "name": "Rob",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shiftwithrob",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-20T22:02:55.333Z"
     }
   ],
-  "lastUpdated": "2026-05-20T21:57:16.614Z"
+  "lastUpdated": "2026-05-20T22:02:55.333Z"
 }
