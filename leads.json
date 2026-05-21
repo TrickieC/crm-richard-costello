@@ -1295,7 +1295,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T23:50:56.911Z"
+    },
+    {
+      "id": "mpg5abyeizpi89jv1v",
+      "name": "Eric Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.cole.007",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T23:51:47.462Z"
     }
   ],
-  "lastUpdated": "2026-05-21T23:50:56.911Z"
+  "lastUpdated": "2026-05-21T23:51:47.462Z"
 }
