@@ -1090,7 +1090,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:06:35.085Z"
+    },
+    {
+      "id": "mpeskc6nk4pg6nd2tqp",
+      "name": "Drew Pugh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61558292512003",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:07:53.135Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:06:35.085Z"
+  "lastUpdated": "2026-05-21T01:07:53.135Z"
 }
