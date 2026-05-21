@@ -988,7 +988,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T00:57:12.724Z"
+    },
+    {
+      "id": "mpes7w0ivtude8g5yt",
+      "name": "Aston Ogle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61572485317560",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T00:58:12.306Z"
     }
   ],
-  "lastUpdated": "2026-05-21T00:57:20.278Z"
+  "lastUpdated": "2026-05-21T00:58:12.307Z"
 }
