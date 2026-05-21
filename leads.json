@@ -647,13 +647,13 @@
       "phone": "",
       "social": "https://www.facebook.com/m.ahsan.ali.836160",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-19",
-      "nextFollowUp": "2026-05-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-19",
+      "lastModified": "2026-05-21",
       "dateAdded": "2026-05-19"
     },
     {
@@ -1228,5 +1228,5 @@
       "addedAt": "2026-05-21T01:18:00.573Z"
     }
   ],
-  "lastUpdated": "2026-05-21T21:41:09.713Z"
+  "lastUpdated": "2026-05-21T21:41:33.631Z"
 }
