@@ -886,7 +886,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-20T22:09:00.169Z"
+    },
+    {
+      "id": "mpery4of3ztf9sc1lkm",
+      "name": "Elena Resendez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/elena.resendez.807276",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T00:50:36.975Z"
     }
   ],
-  "lastUpdated": "2026-05-20T22:38:27.031Z"
+  "lastUpdated": "2026-05-21T00:50:36.975Z"
 }
