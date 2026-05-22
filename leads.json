@@ -1652,7 +1652,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-22T00:12:03.514Z"
+    },
+    {
+      "id": "mpg61eobqzjkg0pzo1o",
+      "name": "Dan Bellen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61574215900985",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-22T00:12:50.699Z"
     }
   ],
-  "lastUpdated": "2026-05-22T00:12:03.514Z"
+  "lastUpdated": "2026-05-22T00:12:50.699Z"
 }
