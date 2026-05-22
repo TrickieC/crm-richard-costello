@@ -839,23 +839,6 @@
       "addedAt": "2026-05-20T22:08:30.388Z"
     },
     {
-      "id": "mpem6akp91t4j20r9e9",
-      "name": "Jen Cintrao",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/JenC.DEA",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-22",
-      "notes": "",
-      "lastModified": "2026-05-20",
-      "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-20T22:09:00.169Z"
-    },
-    {
       "id": "mpery4of3ztf9sc1lkm",
       "name": "Elena Resendez",
       "email": "",
@@ -1723,5 +1706,5 @@
       "addedAt": "2026-05-22T00:16:29.370Z"
     }
   ],
-  "lastUpdated": "2026-05-22T21:39:01.110Z"
+  "lastUpdated": "2026-05-22T21:39:15.391Z"
 }
