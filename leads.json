@@ -1550,7 +1550,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-22T00:07:46.313Z"
+    },
+    {
+      "id": "mpg5w75sa6qbmnma2x",
+      "name": "Fredrickus Williford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fredrickuswilliford",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-22T00:08:47.680Z"
     }
   ],
-  "lastUpdated": "2026-05-22T00:07:46.313Z"
+  "lastUpdated": "2026-05-22T00:08:47.680Z"
 }
