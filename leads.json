@@ -913,13 +913,13 @@
       "phone": "",
       "social": "https://www.facebook.com/angela.judy.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-22",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:02:28.127Z"
     },
@@ -1638,5 +1638,5 @@
       "addedAt": "2026-05-22T00:16:29.370Z"
     }
   ],
-  "lastUpdated": "2026-05-22T21:44:34.846Z"
+  "lastUpdated": "2026-05-22T21:45:38.432Z"
 }
