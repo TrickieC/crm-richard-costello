@@ -1636,7 +1636,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T00:49:21.776Z"
+    },
+    {
+      "id": "mphmt3dn1z6v1w9ip6k",
+      "name": "Anthony Leiva",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.leiva.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T00:50:02.459Z"
     }
   ],
-  "lastUpdated": "2026-05-23T00:49:21.776Z"
+  "lastUpdated": "2026-05-23T00:50:02.459Z"
 }
