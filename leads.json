@@ -529,22 +529,6 @@
       "dateAdded": "2026-05-19"
     },
     {
-      "id": "mpd7ynbemifhsv4kek",
-      "name": "Rob Dario",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/rob.dario.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-23",
-      "notes": "",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
-    },
-    {
       "id": "mpd80nqghpkbkp70vut",
       "name": "Alyssa Jervoso",
       "email": "",
@@ -1911,5 +1895,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-23T23:36:07.419Z"
+  "lastUpdated": "2026-05-23T23:36:47.335Z"
 }
