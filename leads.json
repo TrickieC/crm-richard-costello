@@ -1806,24 +1806,7 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:03:01.251Z"
-    },
-    {
-      "id": "mphnaxd0qkqgxz4nodk",
-      "name": "Andy Gamez",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/andygamez.rei",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-24",
-      "notes": "",
-      "lastModified": "2026-05-22",
-      "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:03:54.468Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:03:54.468Z"
+  "lastUpdated": "2026-05-23T01:04:15.367Z"
 }
