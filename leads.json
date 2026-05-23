@@ -1806,7 +1806,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:03:01.251Z"
+    },
+    {
+      "id": "mphnc7fueu1pd1yb0hd",
+      "name": "Rens Hoekstra",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rens.hoekstra.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T01:04:54.186Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:04:15.367Z"
+  "lastUpdated": "2026-05-23T01:04:54.186Z"
 }
