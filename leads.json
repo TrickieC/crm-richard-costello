@@ -1823,7 +1823,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:04:54.186Z"
+    },
+    {
+      "id": "mphndfs56th0b704n2a",
+      "name": "Johnny Schirripa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.schirripa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T01:05:51.653Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:04:54.186Z"
+  "lastUpdated": "2026-05-23T01:05:51.653Z"
 }
