@@ -1840,7 +1840,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:05:51.653Z"
+    },
+    {
+      "id": "mphne70myg5clkzgre",
+      "name": "Roy Bush",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/roy.bush.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T01:06:26.950Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:05:51.653Z"
+  "lastUpdated": "2026-05-23T01:06:26.950Z"
 }
