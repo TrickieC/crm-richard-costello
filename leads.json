@@ -1772,7 +1772,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:00:07.582Z"
+    },
+    {
+      "id": "mphn8mkera78u9pxkel",
+      "name": "Peter Turcar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61584277708988",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T01:02:07.166Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:00:07.582Z"
+  "lastUpdated": "2026-05-23T01:02:07.166Z"
 }
