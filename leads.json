@@ -1844,7 +1844,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:57:26.882Z"
+    },
+    {
+      "id": "mplr0h50edynquooyg8",
+      "name": "Briley Karney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/briley.karney",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:58:50.052Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:57:26.882Z"
+  "lastUpdated": "2026-05-25T21:58:50.052Z"
 }
