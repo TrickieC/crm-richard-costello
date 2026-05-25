@@ -996,23 +996,6 @@
       "addedAt": "2026-05-21T23:28:21.194Z"
     },
     {
-      "id": "mpg52bcur8mkngo4hxo",
-      "name": "Brad Case",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/thebradcasefde",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-05-25",
-      "notes": "",
-      "lastModified": "2026-05-23",
-      "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T23:45:33.438Z"
-    },
-    {
       "id": "mpg5abyeizpi89jv1v",
       "name": "Eric Cole",
       "email": "",
@@ -1659,5 +1642,5 @@
       "addedAt": "2026-05-25T19:09:09.617Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:12:42.526Z"
+  "lastUpdated": "2026-05-25T21:15:25.392Z"
 }
