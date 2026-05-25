@@ -1302,23 +1302,6 @@
       "addedAt": "2026-05-22T00:15:19.452Z"
     },
     {
-      "id": "mpg65chzj283t3s6lzn",
-      "name": "Bob Sidhu",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/bob.sidhu.964193",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-05-25",
-      "notes": "",
-      "lastModified": "2026-05-23",
-      "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:15:54.503Z"
-    },
-    {
       "id": "mpg663eiaphyjezfu5d",
       "name": "Pam Grace",
       "email": "",
@@ -1625,5 +1608,5 @@
       "addedAt": "2026-05-25T19:09:09.617Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:28:25.470Z"
+  "lastUpdated": "2026-05-25T21:28:52.871Z"
 }
