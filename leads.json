@@ -1827,7 +1827,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:56:53.965Z"
+    },
+    {
+      "id": "mplqyoyqldqbmkcl6ab",
+      "name": "Tyler White",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.697500",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:57:26.882Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:56:53.965Z"
+  "lastUpdated": "2026-05-25T21:57:26.882Z"
 }
