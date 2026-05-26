@@ -1980,7 +1980,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:06:13.325Z"
+    },
+    {
+      "id": "mpmrsyj8tdl7synwqsn",
+      "name": "Joe Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61589384020598",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T15:08:45.140Z"
     }
   ],
-  "lastUpdated": "2026-05-26T13:06:13.325Z"
+  "lastUpdated": "2026-05-26T15:08:45.140Z"
 }
