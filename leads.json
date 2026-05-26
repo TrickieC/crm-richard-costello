@@ -2082,7 +2082,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:28:18.113Z"
+    },
+    {
+      "id": "mpn9oa3vntqfpi0k4vm",
+      "name": "Darrell Pfiffner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darrell.pfiffner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:28:59.947Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:28:18.113Z"
+  "lastUpdated": "2026-05-26T23:28:59.947Z"
 }
