@@ -608,14 +608,15 @@
       "phone": "",
       "social": "https://www.facebook.com/joannekimremax",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpd8bdd0ht6v8ijl0me",
@@ -2421,5 +2422,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T23:00:37.550Z"
+  "lastUpdated": "2026-05-27T23:01:18.968Z"
 }
