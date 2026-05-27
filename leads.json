@@ -788,15 +788,16 @@
       "phone": "",
       "social": "https://www.facebook.com/martindimitrovofficialprofile",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-21T00:53:04.784Z"
+      "addedAt": "2026-05-21T00:53:04.784Z",
+      "videoSent": false
     },
     {
       "id": "mpes3s0sgf30owrf77",
@@ -2411,5 +2412,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:43:23.779Z"
+  "lastUpdated": "2026-05-27T22:45:33.098Z"
 }
