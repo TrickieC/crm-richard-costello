@@ -1418,7 +1418,8 @@
       "notes": "",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:03:01.251Z"
+      "addedAt": "2026-05-23T01:03:01.251Z",
+      "videoSent": true
     },
     {
       "id": "mphnc7fueu1pd1yb0hd",
@@ -2396,5 +2397,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T21:56:24.922Z"
+  "lastUpdated": "2026-05-27T21:56:30.491Z"
 }
