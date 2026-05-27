@@ -430,8 +430,9 @@
       "lastContact": "2026-05-25",
       "nextFollowUp": "2026-05-28",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-19",
+      "videoSent": true
     },
     {
       "id": "mpcuhv72wc539re4jp",
@@ -2398,5 +2399,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T21:56:44.207Z"
+  "lastUpdated": "2026-05-27T21:56:49.890Z"
 }
