@@ -1370,23 +1370,6 @@
       "addedAt": "2026-05-23T00:55:16.696Z"
     },
     {
-      "id": "mphn2k1ogeneic3tcbt",
-      "name": "Paul Hamel",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/PaulEHamel",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
-      "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T00:57:23.964Z"
-    },
-    {
       "id": "mphn62amyf0asajsom",
       "name": "Lee Conrad Mullen",
       "email": "",
@@ -2407,5 +2390,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:29:39.614Z"
+  "lastUpdated": "2026-05-27T14:30:10.013Z"
 }
