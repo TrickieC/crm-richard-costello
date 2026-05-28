@@ -2479,7 +2479,7 @@
     },
     {
       "id": "mpov4l8ih9ub3t9emkv",
-      "name": "Arild Bjørnestad",
+      "name": "Arild BjÃ¸rnestad",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/abbjornestad83",
@@ -2602,7 +2602,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:27:48.245Z"
+    },
+    {
+      "id": "mppjhko0daltb2qn6r",
+      "name": "Angel Luis Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DjAngelis",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:27:48.245Z"
+  "lastUpdated": "2026-05-28T13:39:15.552Z"
 }
