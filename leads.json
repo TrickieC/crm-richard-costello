@@ -2476,7 +2476,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:10:36.112Z"
+    },
+    {
+      "id": "mpov4l8ih9ub3t9emkv",
+      "name": "Arild Bjørnestad",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/abbjornestad83",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:17:18.978Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:13:14.827Z"
+  "lastUpdated": "2026-05-28T02:17:18.978Z"
 }
