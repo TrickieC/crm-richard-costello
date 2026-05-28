@@ -2512,7 +2512,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:17:49.028Z"
+    },
+    {
+      "id": "mpov6i2pxbz192172wh",
+      "name": "Steven Caulboy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steven.caulboy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:18:48.193Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:17:49.028Z"
+  "lastUpdated": "2026-05-28T02:18:48.193Z"
 }
