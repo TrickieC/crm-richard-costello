@@ -53,7 +53,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T12:28:45.662Z"
+    },
+    {
+      "id": "mpqwkwakii2mw5e6o4j",
+      "name": "Denis Narubins ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100010128937481",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-31",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T12:33:31.772Z"
     }
   ],
-  "lastUpdated": "2026-05-29T12:28:45.662Z"
+  "lastUpdated": "2026-05-29T12:33:31.772Z"
 }
