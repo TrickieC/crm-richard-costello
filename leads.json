@@ -107,7 +107,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T15:32:05.751Z"
+    },
+    {
+      "id": "mpr34keeqrd3ne0lrh9",
+      "name": "Yadira Barbosa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yadira.barbosa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-31",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T15:36:47.174Z"
     }
   ],
-  "lastUpdated": "2026-05-29T15:32:05.751Z"
+  "lastUpdated": "2026-05-29T15:36:47.174Z"
 }
