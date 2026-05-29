@@ -1,4 +1,23 @@
 {
-  "leads": [],
-  "lastUpdated": ""
+  "leads": [
+    {
+      "id": "mpqw1vfhx937vco0pk",
+      "name": "Taylor Ford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bubba12999",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-31",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T12:18:44.189Z"
+    }
+  ],
+  "lastUpdated": "2026-05-29T12:18:44.189Z"
 }
