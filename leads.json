@@ -143,7 +143,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T15:39:37.692Z"
+    },
+    {
+      "id": "mpr3chjhdbur08cm1y",
+      "name": "Velle Bourton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lorievelle.valeriano",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-31",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T15:42:56.717Z"
     }
   ],
-  "lastUpdated": "2026-05-29T15:39:37.692Z"
+  "lastUpdated": "2026-05-29T15:42:56.717Z"
 }
