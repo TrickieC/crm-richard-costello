@@ -305,7 +305,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T18:25:07.015Z"
+    },
+    {
+      "id": "mpsoos4nxsk3xlf04r",
+      "name": "Susan Sharp",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/suecollier333",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T18:28:08.423Z"
     }
   ],
-  "lastUpdated": "2026-05-30T18:25:07.015Z"
+  "lastUpdated": "2026-05-30T18:28:08.423Z"
 }
