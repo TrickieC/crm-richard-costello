@@ -413,7 +413,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T09:49:48.506Z"
+    },
+    {
+      "id": "mptlp03bvkqqcekkt8d",
+      "name": "Vicki McMullen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vicki.redmaynesmith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T09:52:06.071Z"
     }
   ],
-  "lastUpdated": "2026-05-31T09:49:48.506Z"
+  "lastUpdated": "2026-05-31T09:52:06.071Z"
 }
