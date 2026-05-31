@@ -431,7 +431,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T09:52:06.071Z"
+    },
+    {
+      "id": "mptq5v1kk3b9h70ziaa",
+      "name": "Jonathan Rutherford ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathan.rutherford.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T11:57:11.144Z"
     }
   ],
-  "lastUpdated": "2026-05-31T10:01:55.097Z"
+  "lastUpdated": "2026-05-31T11:57:11.144Z"
 }
