@@ -485,7 +485,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T12:09:38.504Z"
+    },
+    {
+      "id": "mptqoqqiqs6bn71ta4c",
+      "name": "Jon Bone",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jon.bone.148",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T12:11:52.026Z"
     }
   ],
-  "lastUpdated": "2026-05-31T12:09:38.504Z"
+  "lastUpdated": "2026-05-31T12:11:52.026Z"
 }
