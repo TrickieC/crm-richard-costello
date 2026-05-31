@@ -467,7 +467,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T12:07:07.914Z"
+    },
+    {
+      "id": "mptqlvpkksyyrjidql",
+      "name": "Richard Teare",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richardteare",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T12:09:38.504Z"
     }
   ],
-  "lastUpdated": "2026-05-31T12:07:07.914Z"
+  "lastUpdated": "2026-05-31T12:09:38.504Z"
 }
