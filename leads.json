@@ -377,7 +377,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T09:37:16.996Z"
+    },
+    {
+      "id": "mptlav0k3418dcez40x",
+      "name": "Bhawani Sharma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DigitalCreatorBhawani",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T09:41:06.308Z"
     }
   ],
-  "lastUpdated": "2026-05-31T09:37:16.996Z"
+  "lastUpdated": "2026-05-31T09:41:06.308Z"
 }
