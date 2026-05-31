@@ -277,8 +277,8 @@
       "phone": "",
       "social": "https://www.facebook.com/gazzbizz",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-30",
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-30T18:31:06.941Z"
     }
   ],
-  "lastUpdated": "2026-05-30T18:31:06.941Z"
+  "lastUpdated": "2026-05-31T06:58:44.031Z"
 }
