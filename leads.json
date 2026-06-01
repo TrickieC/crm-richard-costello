@@ -557,7 +557,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T10:30:58.034Z"
+    },
+    {
+      "id": "mpv2qhgvvxf1p6k2qx",
+      "name": "Shaun Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaun.williams.theleadking",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T10:36:54.895Z"
     }
   ],
-  "lastUpdated": "2026-06-01T10:30:58.034Z"
+  "lastUpdated": "2026-06-01T10:36:54.895Z"
 }
