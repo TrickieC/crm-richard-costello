@@ -575,7 +575,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T10:36:54.895Z"
+    },
+    {
+      "id": "mpv323s3cdxxia4k5j",
+      "name": "Paul Hughes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100000912651153",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T10:45:57.027Z"
     }
   ],
-  "lastUpdated": "2026-06-01T10:40:17.033Z"
+  "lastUpdated": "2026-06-01T10:45:57.027Z"
 }
