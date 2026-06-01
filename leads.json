@@ -647,7 +647,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:17:36.129Z"
+    },
+    {
+      "id": "mpvcv2uqdhv8rrywb5",
+      "name": "Laurence Cooney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/laurence.cooney.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T15:20:25.394Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:17:36.129Z"
+  "lastUpdated": "2026-06-01T15:20:25.394Z"
 }
