@@ -521,7 +521,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T10:25:26.719Z"
+    },
+    {
+      "id": "mpv2fhnlp20jiyvuzj",
+      "name": "Mia Lorentzson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mia.lorentzson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T10:28:21.921Z"
     }
   ],
-  "lastUpdated": "2026-06-01T10:25:26.720Z"
+  "lastUpdated": "2026-06-01T10:28:21.921Z"
 }
