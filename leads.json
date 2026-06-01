@@ -673,8 +673,8 @@
       "phone": "",
       "social": "https://www.facebook.com/mrdrummerman7",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-01",
@@ -685,5 +685,5 @@
       "addedAt": "2026-06-01T15:23:19.987Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:23:19.987Z"
+  "lastUpdated": "2026-06-01T15:50:18.208Z"
 }
