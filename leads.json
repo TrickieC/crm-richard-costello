@@ -683,7 +683,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T15:23:19.987Z"
+    },
+    {
+      "id": "mpwgv7iwzuwg1z7ve5j",
+      "name": "Tim Judd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/TimAwesomeJudd",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:00:16.089Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:50:18.208Z"
+  "lastUpdated": "2026-06-02T10:00:16.089Z"
 }
