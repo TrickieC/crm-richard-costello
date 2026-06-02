@@ -755,7 +755,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:09:17.813Z"
+    },
+    {
+      "id": "mpwhcywnj8v7yzqh4ce",
+      "name": "Marlene Kristensen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marlenekristensencom",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:14:04.727Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:12:39.490Z"
+  "lastUpdated": "2026-06-02T10:14:04.727Z"
 }
