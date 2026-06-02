@@ -719,7 +719,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:03:51.171Z"
+    },
+    {
+      "id": "mpwh359lzw5nh1la7x8",
+      "name": "David Miller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100028284830615",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T10:06:26.409Z"
     }
   ],
-  "lastUpdated": "2026-06-02T10:03:51.171Z"
+  "lastUpdated": "2026-06-02T10:06:26.409Z"
 }
