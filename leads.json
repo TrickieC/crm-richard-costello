@@ -685,24 +685,6 @@
       "addedAt": "2026-06-03T11:47:04.779Z"
     },
     {
-      "id": "mpy07sptkykgogmwxjl",
-      "name": "John Rea",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/john.rea.140",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T11:49:42.305Z"
-    },
-    {
       "id": "mpy0lgs10n9p23bx9zua",
       "name": "Chaman Lal",
       "email": "",
@@ -793,5 +775,5 @@
       "addedAt": "2026-06-03T13:13:11.948Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:13:11.948Z"
+  "lastUpdated": "2026-06-03T13:17:25.115Z"
 }
