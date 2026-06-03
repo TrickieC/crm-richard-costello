@@ -649,24 +649,6 @@
       "addedAt": "2026-06-02T10:00:16.089Z"
     },
     {
-      "id": "mpwgzthfjbov2yk8vtl",
-      "name": "Greg Stone",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/greg.stone.908579",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-04",
-      "notes": "",
-      "lastModified": "2026-06-02",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T10:03:51.171Z"
-    },
-    {
       "id": "mpwh359lzw5nh1la7x8",
       "name": "David Miller",
       "email": "",
@@ -721,5 +703,5 @@
       "addedAt": "2026-06-02T10:14:04.727Z"
     }
   ],
-  "lastUpdated": "2026-06-03T10:10:00.006Z"
+  "lastUpdated": "2026-06-03T10:12:27.744Z"
 }
