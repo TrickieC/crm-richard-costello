@@ -647,7 +647,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T10:14:04.727Z"
+    },
+    {
+      "id": "mpxzsy4rb4szudmd8mb",
+      "name": "Anthony French",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.french.127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:38:09.483Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:29:27.214Z"
+  "lastUpdated": "2026-06-03T11:38:09.483Z"
 }
