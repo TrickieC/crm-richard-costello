@@ -773,7 +773,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T13:09:52.108Z"
+    },
+    {
+      "id": "mpy3766krpq12v7a0zd",
+      "name": "Harry Parkhurst",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/harry.parkhurst",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T13:13:11.948Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:09:52.108Z"
+  "lastUpdated": "2026-06-03T13:13:11.948Z"
 }
