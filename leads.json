@@ -773,7 +773,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T13:13:11.948Z"
+    },
+    {
+      "id": "mpy3k1ribpq084257k",
+      "name": "Tim Rogers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tim.rogers.9655",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T13:23:12.750Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:17:25.115Z"
+  "lastUpdated": "2026-06-03T13:23:12.750Z"
 }
