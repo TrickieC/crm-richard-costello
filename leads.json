@@ -791,7 +791,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T13:23:12.750Z"
+    },
+    {
+      "id": "mpy3tbnb6fbm8tuok8",
+      "name": "Craig Eilbeck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/CraigEilbeck",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T13:30:25.463Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:27:12.027Z"
+  "lastUpdated": "2026-06-03T13:30:25.463Z"
 }
