@@ -701,7 +701,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:49:42.305Z"
+    },
+    {
+      "id": "mpy0lgs10n9p23bx9zua",
+      "name": "Chaman Lal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/simonlal",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T12:00:20.017Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:58:58.293Z"
+  "lastUpdated": "2026-06-03T12:00:20.017Z"
 }
