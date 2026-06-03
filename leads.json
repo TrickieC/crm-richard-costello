@@ -55,24 +55,6 @@
       "addedAt": "2026-05-29T12:28:45.662Z"
     },
     {
-      "id": "mpqwkwakii2mw5e6o4j",
-      "name": "Denis Narubins ",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100010128937481",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-05-29",
-      "addedAt": "2026-05-29T12:33:31.772Z"
-    },
-    {
       "id": "mpqwnsrq2o51sggfdr7",
       "name": "Simone Garrity",
       "email": "",
@@ -667,5 +649,5 @@
       "addedAt": "2026-06-02T10:14:04.727Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:26:41.827Z"
+  "lastUpdated": "2026-06-03T11:29:27.214Z"
 }
