@@ -755,7 +755,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T12:04:52.302Z"
+    },
+    {
+      "id": "mpy32vzghco2e21gxdr",
+      "name": "Steve Winn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Rev.Steve.Winn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T13:09:52.108Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:07:31.302Z"
+  "lastUpdated": "2026-06-03T13:09:52.108Z"
 }
