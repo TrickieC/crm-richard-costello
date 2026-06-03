@@ -755,25 +755,7 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T12:04:52.302Z"
-    },
-    {
-      "id": "mpy2z4ytap3pwij3x87",
-      "name": "Alex Bor",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/alex.bor.507",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T13:06:57.125Z"
     }
   ],
-  "lastUpdated": "2026-06-03T13:06:57.125Z"
+  "lastUpdated": "2026-06-03T13:07:31.302Z"
 }
