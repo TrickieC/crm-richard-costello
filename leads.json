@@ -719,7 +719,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T12:00:20.017Z"
+    },
+    {
+      "id": "mpy0oowuqgoyq6jeruk",
+      "name": "Gav Jeffrey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gav.jeffrey",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T12:02:50.526Z"
     }
   ],
-  "lastUpdated": "2026-06-03T12:00:20.017Z"
+  "lastUpdated": "2026-06-03T12:02:50.526Z"
 }
