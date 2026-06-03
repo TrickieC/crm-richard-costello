@@ -691,8 +691,8 @@
       "phone": "",
       "social": "https://www.facebook.com/john.rea.140",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-03",
@@ -703,5 +703,5 @@
       "addedAt": "2026-06-03T11:49:42.305Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:49:42.305Z"
+  "lastUpdated": "2026-06-03T11:58:58.293Z"
 }
