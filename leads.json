@@ -827,7 +827,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T11:40:08.450Z"
+    },
+    {
+      "id": "mpzffvihnmjyxe7sd6g",
+      "name": "Donald Das",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Donald.das2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T11:43:39.593Z"
     }
   ],
-  "lastUpdated": "2026-06-04T11:40:08.450Z"
+  "lastUpdated": "2026-06-04T11:43:39.593Z"
 }
