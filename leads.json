@@ -845,7 +845,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T11:43:39.593Z"
+    },
+    {
+      "id": "mpzglv19yfn8ju2jgbf",
+      "name": "James Newbold",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.newbz.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T12:16:18.525Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:08:57.839Z"
+  "lastUpdated": "2026-06-04T12:16:18.525Z"
 }
