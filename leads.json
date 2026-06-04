@@ -469,24 +469,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpv9yekkayu0q1w98vm",
-      "name": "James L. Albritton",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/james.lloyd.399",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T13:59:01.700Z"
-    },
-    {
       "id": "mpva280nmfsfwy5m87q",
       "name": "Dave Braithwaite",
       "email": "",
@@ -811,5 +793,5 @@
       "addedAt": "2026-06-03T13:32:47.876Z"
     }
   ],
-  "lastUpdated": "2026-06-04T11:20:00.841Z"
+  "lastUpdated": "2026-06-04T11:20:20.067Z"
 }
