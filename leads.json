@@ -37,24 +37,6 @@
       "addedAt": "2026-05-29T12:25:05.309Z"
     },
     {
-      "id": "mpqwerj240gjqxlrhjd",
-      "name": "David Gurney",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/david.gurney.969",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-05-29",
-      "addedAt": "2026-05-29T12:28:45.662Z"
-    },
-    {
       "id": "mpqwnsrq2o51sggfdr7",
       "name": "Simone Garrity",
       "email": "",
@@ -829,5 +811,5 @@
       "addedAt": "2026-06-03T13:32:47.876Z"
     }
   ],
-  "lastUpdated": "2026-06-04T11:19:42.705Z"
+  "lastUpdated": "2026-06-04T11:20:00.841Z"
 }
