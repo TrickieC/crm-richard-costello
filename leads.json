@@ -809,7 +809,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T11:35:15.669Z"
+    },
+    {
+      "id": "mpzfbcleebkbpkumbwp",
+      "name": "Alan Cosens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alan.cosens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T11:40:08.450Z"
     }
   ],
-  "lastUpdated": "2026-06-04T11:35:15.669Z"
+  "lastUpdated": "2026-06-04T11:40:08.450Z"
 }
