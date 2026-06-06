@@ -289,24 +289,6 @@
       "addedAt": "2026-06-01T15:20:25.394Z"
     },
     {
-      "id": "mpvcytkjcd608js00kc",
-      "name": "Paul Morland",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mrdrummerman7",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T15:23:19.987Z"
-    },
-    {
       "id": "mpwh359lzw5nh1la7x8",
       "name": "David Miller",
       "email": "",
@@ -667,5 +649,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T14:03:51.178Z"
+  "lastUpdated": "2026-06-06T14:05:52.155Z"
 }
