@@ -439,14 +439,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Donald.das2",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-06",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-08",
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-06",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T11:43:39.593Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T15:35:52.186Z"
+  "lastUpdated": "2026-06-06T15:37:59.096Z"
 }
