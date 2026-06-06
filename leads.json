@@ -19,24 +19,6 @@
       "addedAt": "2026-05-29T15:39:37.692Z"
     },
     {
-      "id": "mps5inwo15skxjy594k",
-      "name": "Lisa Jenkins",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/lisa.jenkins.31521",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-05-30",
-      "addedAt": "2026-05-30T09:31:30.312Z"
-    },
-    {
       "id": "mps5ogvvsridopo0v3",
       "name": "Nick Jonker.",
       "email": "",
@@ -739,5 +721,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T13:39:00.902Z"
+  "lastUpdated": "2026-06-06T13:40:59.307Z"
 }
