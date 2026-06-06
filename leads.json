@@ -1,24 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpqw1vfhx937vco0pk",
-      "name": "Taylor Ford",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/bubba12999",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Closed",
-      "lastContact": "2026-06-06",
-      "nextFollowUp": null,
-      "notes": "",
-      "lastModified": "2026-06-06",
-      "dateAdded": "2026-05-29",
-      "addedAt": "2026-05-29T12:18:44.189Z"
-    },
-    {
       "id": "mpqwa1i5z104punhjw",
       "name": "Nick Dutton",
       "email": "",
@@ -901,5 +883,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T13:25:53.718Z"
+  "lastUpdated": "2026-06-06T13:27:51.243Z"
 }
