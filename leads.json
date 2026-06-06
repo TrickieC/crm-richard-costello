@@ -37,24 +37,6 @@
       "addedAt": "2026-05-30T18:25:07.015Z"
     },
     {
-      "id": "mptqlvpkksyyrjidql",
-      "name": "Richard Teare",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/richardteare",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-06",
-      "notes": "",
-      "lastModified": "2026-06-04",
-      "dateAdded": "2026-05-31",
-      "addedAt": "2026-05-31T12:09:38.504Z"
-    },
-    {
       "id": "mpv2bqgvvg54jxscmw",
       "name": "Samm Farrington",
       "email": "",
@@ -559,5 +541,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T15:26:50.990Z"
+  "lastUpdated": "2026-06-06T15:27:47.965Z"
 }
