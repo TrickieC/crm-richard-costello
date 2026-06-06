@@ -181,24 +181,6 @@
       "addedAt": "2026-06-01T15:20:25.394Z"
     },
     {
-      "id": "mpwh359lzw5nh1la7x8",
-      "name": "David Miller",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100028284830615",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-06",
-      "notes": "",
-      "lastModified": "2026-06-04",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T10:06:26.409Z"
-    },
-    {
       "id": "mpwh6titv67ia6opi8s",
       "name": "Nick Lawrance",
       "email": "",
@@ -541,5 +523,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-06T15:27:47.965Z"
+  "lastUpdated": "2026-06-06T15:28:46.946Z"
 }
