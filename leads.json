@@ -1,24 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpv2fhnlp20jiyvuzj",
-      "name": "Mia Lorentzson",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mia.lorentzson",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-08",
-      "notes": "",
-      "lastModified": "2026-06-06",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T10:28:21.921Z"
-    },
-    {
       "id": "mpv2iu4257psxx1bhcw",
       "name": "Cyril Crawford",
       "email": "",
@@ -469,5 +451,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-11T10:35:01.193Z"
+  "lastUpdated": "2026-06-11T10:36:14.272Z"
 }
