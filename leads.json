@@ -217,24 +217,6 @@
       "addedAt": "2026-06-04T11:35:15.669Z"
     },
     {
-      "id": "mpzfbcleebkbpkumbwp",
-      "name": "Alan Cosens",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/alan.cosens",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-08",
-      "notes": "",
-      "lastModified": "2026-06-06",
-      "dateAdded": "2026-06-04",
-      "addedAt": "2026-06-04T11:40:08.450Z"
-    },
-    {
       "id": "mpzffvihnmjyxe7sd6g",
       "name": "Donald Das",
       "email": "",
@@ -325,5 +307,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-11T11:25:33.928Z"
+  "lastUpdated": "2026-06-11T11:27:43.643Z"
 }
