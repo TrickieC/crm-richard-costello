@@ -37,24 +37,6 @@
       "addedAt": "2026-06-01T14:01:59.831Z"
     },
     {
-      "id": "mpwh6titv67ia6opi8s",
-      "name": "Nick Lawrance",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/nick.lawrance.58",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-08",
-      "notes": "",
-      "lastModified": "2026-06-06",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T10:09:17.813Z"
-    },
-    {
       "id": "mpwhcywnj8v7yzqh4ce",
       "name": "Marlene Kristensen",
       "email": "",
@@ -379,5 +361,5 @@
       "addedAt": "2026-06-04T13:25:22.347Z"
     }
   ],
-  "lastUpdated": "2026-06-11T10:59:20.500Z"
+  "lastUpdated": "2026-06-11T11:00:23.808Z"
 }
