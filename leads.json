@@ -287,7 +287,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T13:25:22.347Z"
+    },
+    {
+      "id": "mqatihp9y8zihhonnoc",
+      "name": "Stephanus Nel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100010247142926",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T11:03:04.221Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:54:04.733Z"
+  "lastUpdated": "2026-06-12T11:03:04.221Z"
 }
