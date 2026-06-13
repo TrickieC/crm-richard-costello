@@ -278,13 +278,13 @@
       "social": "https://www.facebook.com/laurence.nelson.39",
       "source": "Facebook",
       "status": "Prospect",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-11",
       "nextFollowUp": "2026-06-25",
       "notes": "",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T13:25:22.347Z"
     },
@@ -379,5 +379,5 @@
       "addedAt": "2026-06-12T11:31:30.325Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:31:30.325Z"
+  "lastUpdated": "2026-06-13T09:31:39.567Z"
 }
