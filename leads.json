@@ -277,7 +277,7 @@
       "phone": "",
       "social": "https://www.facebook.com/laurence.nelson.39",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
@@ -379,5 +379,5 @@
       "addedAt": "2026-06-12T11:31:30.325Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:31:39.567Z"
+  "lastUpdated": "2026-06-13T09:32:10.980Z"
 }
