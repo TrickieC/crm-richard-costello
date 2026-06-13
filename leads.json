@@ -395,7 +395,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:49:23.265Z"
+    },
+    {
+      "id": "mqc6j8krgjn59w3icrh",
+      "name": "Richard Parkes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009402649773",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T09:55:20.235Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:49:23.265Z"
+  "lastUpdated": "2026-06-13T09:55:20.235Z"
 }
