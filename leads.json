@@ -449,7 +449,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T10:05:56.821Z"
+    },
+    {
+      "id": "mqc71cqhcwnm1nq9bpv",
+      "name": "Ian Ward",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ian.ward.14606",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-13T10:05:56.821Z"
+  "lastUpdated": "2026-06-13T10:09:25.433Z"
 }
