@@ -377,7 +377,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T11:31:30.325Z"
+    },
+    {
+      "id": "mqc5vufwpbb9kbfpfds",
+      "name": "Karl Robertson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/karl.robertson.9619",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T09:37:08.829Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:32:58.227Z"
+  "lastUpdated": "2026-06-13T09:37:08.829Z"
 }
