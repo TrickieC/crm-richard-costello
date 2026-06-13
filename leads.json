@@ -313,14 +313,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bobby.asuredwolves",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-12",
       "nextFollowUp": "2026-06-15",
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T11:19:00.467Z"
     },
@@ -379,5 +379,5 @@
       "addedAt": "2026-06-12T11:31:30.325Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:32:10.980Z"
+  "lastUpdated": "2026-06-13T09:32:58.227Z"
 }
