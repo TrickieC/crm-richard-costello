@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpy0oowuqgoyq6jeruk",
-      "name": "Gav Jeffrey",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/gav.jeffrey",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T12:02:50.526Z"
-    },
-    {
       "id": "mpy0ravic9qjtpj9j8s",
       "name": "Joe Doherty",
       "email": "",
@@ -397,5 +379,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:17:21.747Z"
+  "lastUpdated": "2026-06-19T12:48:12.800Z"
 }
