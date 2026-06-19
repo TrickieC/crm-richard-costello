@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpy3766krpq12v7a0zd",
-      "name": "Harry Parkhurst",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/harry.parkhurst",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T13:13:11.948Z"
-    },
-    {
       "id": "mpy3k1ribpq084257k",
       "name": "Tim Rogers",
       "email": "",
@@ -343,5 +325,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:53:06.729Z"
+  "lastUpdated": "2026-06-19T12:54:19.213Z"
 }
