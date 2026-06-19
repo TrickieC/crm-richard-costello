@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpzgqmrm7ydwtkee6dh",
-      "name": "Andrew Smith",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/andrew.dreds",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-04",
-      "addedAt": "2026-06-04T12:20:01.090Z"
-    },
-    {
       "id": "mpzilfc1dwizigv4xsc",
       "name": "Tony Walker",
       "email": "",
@@ -253,5 +235,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T13:08:00.000Z"
+  "lastUpdated": "2026-06-19T13:09:59.313Z"
 }
