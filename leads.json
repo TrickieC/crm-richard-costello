@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpy32vzghco2e21gxdr",
-      "name": "Steve Winn",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/Rev.Steve.Winn",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
-      "notes": "",
-      "lastModified": "2026-06-12",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T13:09:52.108Z"
-    },
-    {
       "id": "mpy3766krpq12v7a0zd",
       "name": "Harry Parkhurst",
       "email": "",
@@ -361,5 +343,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:51:00.015Z"
+  "lastUpdated": "2026-06-19T12:53:06.729Z"
 }
