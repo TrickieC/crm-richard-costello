@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpy0lgs10n9p23bx9zua",
-      "name": "Chaman Lal",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/simonlal",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T12:00:20.017Z"
-    },
-    {
       "id": "mpy0oowuqgoyq6jeruk",
       "name": "Gav Jeffrey",
       "email": "",
@@ -415,5 +397,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:15:59.007Z"
+  "lastUpdated": "2026-06-19T11:17:21.747Z"
 }
