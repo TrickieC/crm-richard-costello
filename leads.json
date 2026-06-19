@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpva280nmfsfwy5m87q",
-      "name": "Dave Braithwaite",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/MrDavidAndrewBraithwaite",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T14:01:59.831Z"
-    },
-    {
       "id": "mpxzsy4rb4szudmd8mb",
       "name": "Anthony French",
       "email": "",
@@ -469,5 +451,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-13T10:09:25.433Z"
+  "lastUpdated": "2026-06-19T11:12:36.915Z"
 }
