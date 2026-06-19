@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpy3k1ribpq084257k",
-      "name": "Tim Rogers",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/tim.rogers.9655",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T13:23:12.750Z"
-    },
-    {
       "id": "mpy3tbnb6fbm8tuok8",
       "name": "Craig Eilbeck",
       "email": "",
@@ -325,5 +307,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:54:19.213Z"
+  "lastUpdated": "2026-06-19T13:01:40.904Z"
 }
