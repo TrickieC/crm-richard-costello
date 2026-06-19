@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpzglv19yfn8ju2jgbf",
-      "name": "James Newbold",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/james.newbz.1",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-04",
-      "addedAt": "2026-06-04T12:16:18.525Z"
-    },
-    {
       "id": "mpzgqmrm7ydwtkee6dh",
       "name": "Andrew Smith",
       "email": "",
@@ -271,5 +253,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T13:05:38.482Z"
+  "lastUpdated": "2026-06-19T13:08:00.000Z"
 }
