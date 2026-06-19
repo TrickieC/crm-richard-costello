@@ -19,24 +19,6 @@
       "addedAt": "2026-06-01T10:45:57.027Z"
     },
     {
-      "id": "mpzf52olz1ycvw36qh",
-      "name": "Craig Wallace",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/craig.wallace.73307",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
-      "notes": "",
-      "lastModified": "2026-06-11",
-      "dateAdded": "2026-06-04",
-      "addedAt": "2026-06-04T11:35:15.669Z"
-    },
-    {
       "id": "mpzglv19yfn8ju2jgbf",
       "name": "James Newbold",
       "email": "",
@@ -289,5 +271,5 @@
       "addedAt": "2026-06-13T10:09:25.433Z"
     }
   ],
-  "lastUpdated": "2026-06-19T13:02:55.257Z"
+  "lastUpdated": "2026-06-19T13:05:38.482Z"
 }
