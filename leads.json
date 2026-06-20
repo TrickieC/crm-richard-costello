@@ -341,7 +341,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T14:41:37.696Z"
+    },
+    {
+      "id": "mqmhozn8xx4ei4hnet",
+      "name": "Darren Kelly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darren.kelly.5680",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T15:05:26.132Z"
     }
   ],
-  "lastUpdated": "2026-06-20T14:41:37.696Z"
+  "lastUpdated": "2026-06-20T15:05:26.132Z"
 }
