@@ -251,7 +251,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T12:20:42.167Z"
+    },
+    {
+      "id": "mqmbxj1774wkkkg1i2h",
+      "name": "Brian Caissie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.caissie.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T12:24:06.811Z"
     }
   ],
-  "lastUpdated": "2026-06-20T12:20:42.167Z"
+  "lastUpdated": "2026-06-20T12:24:06.811Z"
 }
