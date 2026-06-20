@@ -305,7 +305,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T12:37:56.058Z"
+    },
+    {
+      "id": "mqmcubx8thc0pyjdb8",
+      "name": "Trevor Weeden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/trevor.weeden",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T12:49:37.244Z"
     }
   ],
-  "lastUpdated": "2026-06-20T12:37:56.058Z"
+  "lastUpdated": "2026-06-20T12:49:37.244Z"
 }
