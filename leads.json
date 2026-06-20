@@ -287,7 +287,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T12:30:10.902Z"
+    },
+    {
+      "id": "mqmc96u4c7gxd773416",
+      "name": "Wilfred Bakker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wilfred.bakker.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T12:33:10.876Z"
     }
   ],
-  "lastUpdated": "2026-06-20T12:30:10.902Z"
+  "lastUpdated": "2026-06-20T12:33:10.876Z"
 }
