@@ -163,24 +163,6 @@
       "addedAt": "2026-06-13T09:55:20.235Z"
     },
     {
-      "id": "mqc6s5su5frrii95jqt",
-      "name": "Peter S Kingston",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/peters.kingston",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
-      "notes": "",
-      "lastModified": "2026-06-19",
-      "dateAdded": "2026-06-13",
-      "addedAt": "2026-06-13T10:02:16.542Z"
-    },
-    {
       "id": "mqc6wvrp9ky43xvgynn",
       "name": "Martin Jansen",
       "email": "",
@@ -397,5 +379,5 @@
       "addedAt": "2026-06-20T15:33:47.567Z"
     }
   ],
-  "lastUpdated": "2026-06-30T10:28:13.308Z"
+  "lastUpdated": "2026-06-30T10:29:58.638Z"
 }
