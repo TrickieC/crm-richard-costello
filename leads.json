@@ -91,24 +91,6 @@
       "addedAt": "2026-06-12T11:19:00.467Z"
     },
     {
-      "id": "mqau7btuo3x70r5j0f",
-      "name": "Alan Guth",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100013308967880",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
-      "notes": "",
-      "lastModified": "2026-06-19",
-      "dateAdded": "2026-06-12",
-      "addedAt": "2026-06-12T11:22:23.010Z"
-    },
-    {
       "id": "mqaubc20s315cleq90j",
       "name": "Tyler Thomas",
       "email": "",
@@ -415,5 +397,5 @@
       "addedAt": "2026-06-20T15:33:47.567Z"
     }
   ],
-  "lastUpdated": "2026-06-30T09:54:26.685Z"
+  "lastUpdated": "2026-06-30T09:56:04.097Z"
 }
