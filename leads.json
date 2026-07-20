@@ -1,24 +1,6 @@
 {
   "leads": [
     {
-      "id": "mpv323s3cdxxia4k5j",
-      "name": "Paul Hughes",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100000912651153",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-07-01",
-      "notes": "ALREADY A PARTNER??",
-      "lastModified": "2026-06-01",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T10:45:57.027Z"
-    },
-    {
       "id": "mpzilfc1dwizigv4xsc",
       "name": "Tony Walker",
       "email": "",
@@ -343,5 +325,5 @@
       "addedAt": "2026-06-20T15:33:47.567Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:13:54.453Z"
+  "lastUpdated": "2026-07-20T15:18:43.880Z"
 }
